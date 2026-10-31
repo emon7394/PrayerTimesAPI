@@ -12,9 +12,9 @@ app = Flask(__name__)
 
 # Base PDF URLs with placeholder for month-year
 BASE_PDF_URLS = {
-    "Narvik": "https://www.alnorsenter.no/wp-content/uploads/2025/11/bonnetider-Narvik-{}.pdf",
-    "Tromso": "https://www.alnorsenter.no/wp-content/uploads/2025/11/bonnetider-Tromso-{}.pdf",
-    "Bodo": "https://www.alnorsenter.no/wp-content/uploads/2025/11/bonnetider-Bodo-{}.pdf",
+    "Narvik": "https://www.alnorsenter.no/wp-content/uploads/2026/11/bonnetider-Narvik-{}.pdf",
+    "Tromso": "https://www.alnorsenter.no/wp-content/uploads/2026/11/bonnetider-Tromso-{}.pdf",
+    "Bodo": "https://www.alnorsenter.no/wp-content/uploads/2026/11/bonnetider-Bodo-{}.pdf",
 }
 
 # Norwegian month names
